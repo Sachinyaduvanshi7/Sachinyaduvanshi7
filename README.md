@@ -15,11 +15,8 @@ I am passionate about **AWS Cloud Services**, **DevOps**, **CI/CD Pipelines**, *
 I’m looking to collaborate on projects related to **DevOps, Cloud Infrastructure, and CI/CD pipelines**.  
 
 ### 📫 How to Reach Me
-- Email: `your.email@example.com`
-- LinkedIn: [linkedin.com/in/sachinyaduvanshi7](https://linkedin.com/in/sachinyaduvanshi7)
-
-### 🏳️ Pronouns
-He/Him  
+- Email: sachinyrao7@gmail.com
+- LinkedIn: http://www.linkedin.com/in/sachinyadav2001
 
 ### ⚡ Fun Fact
 I love exploring **cloud technologies** and **automating everything** I can get my hands on!  
